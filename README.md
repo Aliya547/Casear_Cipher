@@ -14,5 +14,5 @@ This project is a simple Python implementation of the Caesar Cipher, a classic e
 - Python
 
 ## Purpose
-This project was created as part of my Python learning journey to practice basic programming concepts such as loops, conditionals, and string manipulation.
+This project was created as part of my Python learning journey to practice basic programming concepts such as conditionals, and string manipulation.
 
